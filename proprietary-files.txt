@@ -1,0 +1,8 @@
+etc/ril_atc.config
+vendor/bin/crash-check-arm
+vendor/bin/downloader
+vendor/bin/icera-crashlogs
+vendor/bin/icera-loader
+vendor/bin/icera_log_serial_arm
+vendor/bin/icera-switcherd
+vendor/lib/libril-icera.so
